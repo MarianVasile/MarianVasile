@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/MarianVasile/MarianVasile/main/peer8-logo.png "Header")](http://mkouhosei.com/)
+[![Header](https://raw.githubusercontent.com/MarianVasile/MarianVasile/blob/main/peer8-logo.png "Header")](http://mkouhosei.com/)
 
 ![](https://img.shields.io/badge/Cloud-GitHub Sponsor-informational?style=flat&logo=GitHub%20Sponsors&logoColor=white&color=2bbc8a)
 
