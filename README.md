@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/MarianVasile/MarianVasile/raw/main/peer8-logo.png "Header")](http://mkouhosei.com/)
 
-![](https://img.shields.io/badge/Cloud-GitHub Sponsor-informational?style=flat&logo=GitHub%20Sponsors&logoColor=white&color=2bbc8a)
+[![](https://img.shields.io/badge/Cloud-GitHub Sponsor-informational?style=flat&logo=GitHub%20Sponsors&logoColor=white&color=2bbc8a)]
 
 - 🔭 I’m currently working on a VSCode extension and a few related server/infa components, that will enable programmers to become aware of each other's code, in wonderful ways. At the moment I'm struggling with creating a new, secure way to partition the access to private repositories, without requesting access to it (i.e. no GitHub API and such).
 
