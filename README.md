@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ![Visio](https://img.shields.io/badge/Tools-Visio-informational?style=flat&labelColor=204F67&logo=Microsoft%20Visio&logoColor=ffc107&color=ffc107)
 
 ![iOS](https://img.shields.io/badge/Platform-iOS-informational?style=flat&labelColor=204F67&logo=iOS&logoColor=ffc107&color=ffc107)
-![Android](https://img.shields.io/badge/Platform-iOS-informational?style=flat&labelColor=204F67&logo=iOS&logoColor=ffc107&color=ffc107)
+![Android](https://img.shields.io/badge/Platform-Android-informational?style=flat&labelColor=204F67&logo=Android&logoColor=ffc107&color=ffc107)
 
 ![MacOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&labelColor=204F67&logo=macOS&logoColor=ffc107&color=ffc107)
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&labelColor=204F67&logo=Arch%20Linux&logoColor=ffc107&color=ffc107)
