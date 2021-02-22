@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&labelColor=204F67&logo=CSS3&logoColor=ffc107&color=ffc107)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&labelColor=204F67&logo=PHP&logoColor=ffc107&color=ffc107)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&labelColor=204F67&logo=Python&logoColor=ffc107&color=ffc107)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&labelColor=204F67&logo=Java&logoColor=ffc107&color=ffc107)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&labelColor=204F67&logo=C++&logoColor=ffc107&color=ffc107)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&labelColor=204F67&logo=C&logoColor=ffc107&color=ffc107)
 ![Haskell](https://img.shields.io/badge/Code-Haskell-informational?style=flat&labelColor=204F67&logo=Haskell&logoColor=ffc107&color=ffc107)
